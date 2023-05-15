@@ -1,0 +1,2 @@
+ls: cannot access 'somte.gh': No such file or directory
+ls: cannot access 'waka.kl': No such file or directory
