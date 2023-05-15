@@ -1,3 +1,6 @@
-echo $1
+#!/bin/bash
+# echo out arguments entered on terminal
+
+echo "his name is $1"
 echo
-echo $2
+echo "her name is $2"
